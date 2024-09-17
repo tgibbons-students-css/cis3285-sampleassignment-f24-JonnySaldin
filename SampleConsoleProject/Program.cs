@@ -7,3 +7,4 @@ Console.WriteLine("Adding a line in VS Code");
 
 Console.WriteLine("MY NEW LINE");
 
+Console.WriteLine("MY NEW LINE AGAIN");
